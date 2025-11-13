@@ -1,0 +1,6 @@
+"patient_id","diagnosis_date","observation_date","tumor_site_code_system","tumor_site_code","morphology_code_system","morphology_code","stage_code_system","stage_code","tumor_size","number_of_lymph_nodes","metastatic","derived_by_TriNetX","source_id"
+"Bw","20190223","20190223","ICD-O","C16.6","ICD-O","8936/3","TriNetX - Oncology Stage","","","","","F","Cancer Registry"
+"BQC","20210518","20210518","ICD-O","C34.0","ICD-O","8070/3","TriNetX - Oncology Stage","","","","","F","Cancer Registry"
+"BQC","20141128","20141128","ICD-O","C75.1","ICD-O","8272/0","TriNetX - Oncology Stage","","","","","F","Cancer Registry"
+"BQG","20041201","20041201","ICD-O","C71.1","ICD-O","9411/3","TriNetX - Oncology Stage","","","","","F","Cancer Registry"
+"BgH","20040113","20040113","ICD-O","C50.4","ICD-O","8500/3","TriNetX - Oncology Stage","","","","","F","Cancer Registry"
